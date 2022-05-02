@@ -17,7 +17,6 @@
                               name="login"
                               label="Email"
                               type="text"
-                              
                            ></v-text-field>
                            <v-text-field
                               shaped

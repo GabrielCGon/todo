@@ -89,10 +89,10 @@ export default {
 }
 
 #theme{
-  background: linear-gradient(to left,#7E0F4B, #1A5865);
+  background: linear-gradient(to left,#606060, #343434, #868686);
 }
 #NavBtn{
   color: #ffffff;
-  background: linear-gradient(to right,#7E0F4B, #1A5865);
+  
 }
 </style>
